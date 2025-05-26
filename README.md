@@ -100,10 +100,12 @@ active-directory-labs/
 
 ---
 
-## 👤 Authors
-> Group Project — ECPI University  
-Course: CIS256 – Directory Services & Infrastructure  
-Term: 2025
+## 👤 Author
+**Nazir Terrell**  
+Security+ Certified | Cybersecurity Graduate  
+ECPI University — CIS256 (Directory Services & Infrastructure)  
+Term: 2025  
+🔗 [LinkedIn](https://www.linkedin.com/in/nazir-terrell-40a05b217)
 
 ---
 
